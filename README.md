@@ -1,30 +1,36 @@
+This repository contains a skeleton react application to add, fetch and display a list of books. 
+
 ## To get started with this challenge: 
 
-1. Fork this repository and then clone it to your local macchine. help -- https://guides.github.com/activities/forking/
+1. Fork this repository and then clone it to your local machine. help -- https://guides.github.com/activities/forking/
 2. Run "npm install" to install all dependecies
 3. Run "npm start" to view application on localhost:3000
+4. Complete the specs below
+5. Commit your changes and push your code to the forked repo, no later than 75 minutes after starting challenge 
+
+----------
 
 Scope out the codebase and check out the application running on port 3000, to get an idea of what you are starting with. 
 
-This repository contains a skeleton react application to add, fetch and display a list of books. 
+###### DO NOT FORGET TO SUBMIT YOUR CODE NO LATER THAN 75 MINUTES AFTER STARTNG CHALLENGE, LATE SUBMISSIONS WILL NOT BE ACCETED.
 
-## Please complete following specs to provide user functionality: 
+----------
 
-1. When a user clicks the "Get Top 10 Books by Ken Follet" button, a list of novels by author Ken Follett are fetched and displayed in an ordered list below. The JSON containing the data can be found in the repo's public folder (BookList.JSON), fetch all the data and diplay the book's titles. [x] 
+## Please complete following *specs* to provide user functionality: 
+
+**1.** When a user clicks the "Get Top 10 Books by Ken Follet" button, a list of novels by author Ken Follett are fetched and displayed in an ordered list below. The JSON containing the data can be found in the repo's public folder (BookList.JSON), fetch all the data and diplay the book's titles.  
 
 ![Screen Shot 2019-12-09 at 4 11 12 PM](https://user-images.githubusercontent.com/33639722/70474081-eefe8000-1a9f-11ea-854c-96f8e536fef4.png)
 
 
-2. The user should also be able to use the text input field to add a custom book to the list. [x] 
+**2.** The user should also be able to use the text input field to add a custom book to the list.  
 
 ![Screen Shot 2019-12-09 at 4 24 58 PM](https://user-images.githubusercontent.com/33639722/70474498-b7dc9e80-1aa0-11ea-9b88-aca3714f15ca.png)
 
 
-3. If a user has already added books to the list, then when they add a new custom book or fetch Ken Follet's bestsellers - the books should always append to the end/bottom of the preexisting list. [x] 
+**3.** If a user has already added books to the list, then when they add a new custom book or fetch Ken Follet's bestsellers - the books should always append to the end/bottom of the preexisting list.  
 
-4. Each item in the list should have the ability to be deleted. BE AWARE that there may be duplicate books, i.e. the same book may be added twice or more to list - if you delete one, the others should remain on the list. [x]
-
-
+**4.** Each item in the list should have the ability to be deleted. BE AWARE that there may be duplicate books, i.e. the same book may be added twice or more to list - if you delete one, the others should remain on the list. 
 
 
 
@@ -33,6 +39,9 @@ This repository contains a skeleton react application to add, fetch and display 
 
 
 
+
+--------------
+--------------
 
 
 
