@@ -1,4 +1,4 @@
-This repository contains a skeleton react application to add, fetch and display a list of books. 
+This repository contains a skeleton react application to fetch, add, and display a list of books. 
 
 ## To get started with this challenge: 
 
