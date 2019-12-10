@@ -5,7 +5,7 @@ This repository contains a skeleton react application to fetch, add, and display
 1. Fork this repository and then clone it to your local machine. help -- https://guides.github.com/activities/forking/
 2. Run "npm install" to install all dependecies
 3. Run "npm start" to view application on localhost:3000
-4. Complete the specs below
+4. Complete the 4 specs below
 5. Commit your changes and push your code to the forked repo, no later than 75 minutes after starting challenge 
 
 ----------
