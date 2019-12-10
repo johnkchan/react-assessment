@@ -10,7 +10,7 @@ This repository contains a skeleton react application to add, fetch and display 
 
 ## Please complete following specs to provide user functionality: 
 
-1. When a user clicks the "Get Top 10 Books by Ken Follet" button, a list of novels by author Ken Follett are fetched and displayed in an ordered list below. The JSON containing the data can be found in the repo's public folder, fetch all the data and diplay the book's titles. [x] 
+1. When a user clicks the "Get Top 10 Books by Ken Follet" button, a list of novels by author Ken Follett are fetched and displayed in an ordered list below. The JSON containing the data can be found in the repo's public folder (BookList.JSON), fetch all the data and diplay the book's titles. [x] 
 
 ![Screen Shot 2019-12-09 at 4 11 12 PM](https://user-images.githubusercontent.com/33639722/70474081-eefe8000-1a9f-11ea-854c-96f8e536fef4.png)
 
