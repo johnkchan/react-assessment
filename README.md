@@ -6,7 +6,7 @@ This repository contains a skeleton react application to fetch, add, and display
 2. Run "npm install" to install all dependecies
 3. Run "npm start" to view application on localhost:3000
 4. Complete the 4 specs below
-5. Commit your changes and push your code to the forked repo, no later than 75 minutes after starting challenge 
+5. Commit your changes and push your code up to the forked repo, no later than 75 minutes after starting challenge 
 
 ----------
 
