@@ -12,6 +12,8 @@ This repository contains a skeleton react application to fetch, add, and display
 
 Scope out the codebase and check out the application running on port 3000, to get an idea of what you are starting with. 
 
+Once you have completed the specs below, commit and push up your code. 
+
 #### DO NOT FORGET TO SUBMIT YOUR CODE - NO LATER THAN 75 MINUTES AFTER STARTNG CHALLENGE - LATE SUBMISSIONS WILL NOT BE ACCETED.
 
 ----------
