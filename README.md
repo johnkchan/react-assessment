@@ -30,7 +30,7 @@ Scope out the codebase and check out the application running on port 3000, to ge
 
 **3.** If a user has already added books to the list, then when they add a new custom book or fetch Ken Follet's bestsellers - the books should always append to the end/bottom of the preexisting list.  
 
-**4.** Each item in the list should have the ability to be deleted. BE AWARE that there may be duplicate books, i.e. the same book may be added twice or more to list - if you delete one, the others should remain on the list. 
+**4.** Each item in the list should have the ability to be deleted. BE AWARE that there may be duplicate books, i.e. the same book may be added twice or more to the list - if you delete one, the others should remain on the list. 
 
 
 
